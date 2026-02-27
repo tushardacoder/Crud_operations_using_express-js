@@ -1,0 +1,27 @@
+{
+  "name": "crud_operations_using_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushardacoder/Crud_operations_using_express-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tushardacoder/Crud_operations_using_express-js/issues"
+  },
+  "homepage": "https://github.com/tushardacoder/Crud_operations_using_express-js#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
